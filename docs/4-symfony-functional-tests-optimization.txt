@@ -1,0 +1,1 @@
+= Run Symfony functional tests optimization =
