@@ -1,4 +1,4 @@
-= PHP project general optimization =
+= PHP project general optimization configurations =
 
 1. Composer Optimization
 

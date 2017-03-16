@@ -15,7 +15,7 @@ Structure:
 Example 2:
 All additional files (.md, ,.xml) on root, .php files on /src, doc files on /doc, test cases on /tests, but phpunit.xml.dist on root
 Structure:
-    /doc/
+    /docs/
     /src/
     /tests/
     /.gitattributes
@@ -27,7 +27,7 @@ Structure:
 Example 3:
 All additional files (.md, ,.xml) on root, .php files on /src, doc files on /doc, test cases and phpunit.xml.dist on /tests
 Structure:
-    /doc/
+    /docs/
     /src/
     /tests/
     /tests/phpunit.xml.dist
