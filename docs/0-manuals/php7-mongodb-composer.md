@@ -1,5 +1,4 @@
-PHP7 with mongodb on composer
-=
+# PHP7 with mongodb on composer
 
 Add to composer.json:
 1. Correct repository(without this option you will see errors)
@@ -18,6 +17,5 @@ Add to composer.json:
         "doctrine/mongodb-odm": "dev-master",
 ````
 
-Links:
--
+## Links:
 * https://github.com/alcaeus/mongo-php-adapter

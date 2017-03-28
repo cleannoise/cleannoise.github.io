@@ -1,5 +1,4 @@
-Install Ubuntu imagick
-=
+# Install Ubuntu imagick
 
 ````
 apt-get install imagemagick

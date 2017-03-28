@@ -1,5 +1,4 @@
-Install memcache on wondows
-=
+# Install memcache on wondows
 
 1) http://www.ubergizmo.com/how-to/install-memcached-windows/
 
@@ -8,7 +7,7 @@ Install memcache on wondows
 sc create "Memcached11211" binPath= "C:\memcached\memcached.exe -d runservice -p 11211" DisplayName= "Memcached11211" start= auto
 ````
 
-File for test:
+## File for test:
 ```
 <?php
 

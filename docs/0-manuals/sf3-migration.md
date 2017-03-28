@@ -1,5 +1,4 @@
-Migrate to Symfony 3
-=
+# Migrate to Symfony 3
 
 * /web/app.php, /web/app_dev.php must be like on: 
 https://github.com/symfony/symfony-standard/tree/master/web

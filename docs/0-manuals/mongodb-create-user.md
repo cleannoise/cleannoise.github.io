@@ -1,5 +1,4 @@
-Create user for MongoDB
-=
+# Create user for MongoDB
 
 1) Connect to mongoDB:
 ````
