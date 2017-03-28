@@ -1,22 +1,22 @@
 ## General PHP development practices:
-* [php project structure](/docs/1-structure/1.1-php-project-structure.md)
+* [php project structure @DRAFT](/docs/1-structure/1.1-php-project-structure.md)
 * [php vendor lib structure](/docs/1-structure/1.2-php-vendor-lib-structure.md)
 
 
 ## Optimization configurations:
 * [composer configuration](/docs/2-configs/2.1-optimize-config-composer.md)
-* [php 7 config](/docs/2-configs/2.2-optimize-config-php.md)
-* [nginx config](/docs/2-configs/2.3-optimize-config-nginx.md)
-* [mysql config](/docs/2-configs/2.4-optimize-config-mysql.md)
-* [redis config](/docs/2-configs/2.5-optimize-config-redis.md)
-* [mongodb config](/docs/2-configs/2.6-optimize-config-mongodb.md)
+* [php 7 config @DRAFT](/docs/2-configs/2.2-optimize-config-php.md)
+* [nginx config @DRAFT](/docs/2-configs/2.3-optimize-config-nginx.md)
+* [mysql config @DRAFT](/docs/2-configs/2.4-optimize-config-mysql.md)
+* [redis config @DRAFT](/docs/2-configs/2.5-optimize-config-redis.md)
+* [mongodb config @DRAFT](/docs/2-configs/2.6-optimize-config-mongodb.md)
 
 
 ## Symfony:
-* [project optimization practices](/docs/3-sf/3.1-sf-project-optimization.md)
+* [project optimization practices @DRAFT](/docs/3-sf/3.1-sf-project-optimization.md)
 * [functional test optimization](/docs/3-sf/3.2-sf-functional-tests-optimization.md)
-* [use none file cache](/docs/3-sf/3.3-sf-none-file-cache.md)
-* [ReactPhp+SF](/docs/3-sf/3.4-sf-reactphp-sf.md)
+* [use none file cache @DRAFT](/docs/3-sf/3.3-sf-none-file-cache.md)
+* [ReactPhp+SF @DRAFT](/docs/3-sf/3.4-sf-reactphp-sf.md)
 
 
 ## FrontEnd:
